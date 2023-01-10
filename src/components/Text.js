@@ -3,7 +3,7 @@ import React from "react";
 function Text()
 {
     return(
-        <p>welcome in worled web Design</p>
+        <p className="py-d">welcome in worled web Design</p>
     )
 }
 
